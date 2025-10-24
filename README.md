@@ -55,7 +55,11 @@ Figure -02 HALF Subtractor
 Developed by: RegisterNumber:*/
 
 **RTL Schematic**
+<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/0824f0b7-5f92-4b9f-a310-e164466aa63d" />
+<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/60b809a0-d72b-4d05-8456-185dc321cc84" />
 
 **Output/TIMING Waveform**
+<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/c12b48c1-1e59-49e4-bc77-9006a69ca5cc" />
+<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/07b88257-6972-42fd-8417-436c00618f2c" />
 
 **Result:**
